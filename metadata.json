@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PSG Fan Club Abidjan",
+  "description": "Plateforme officielle pour les supporters du Paris Saint-Germain à Abidjan. Actualités, événements locaux, boutique avec Mobile Money et espace communautaire.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
